@@ -1,0 +1,9 @@
+.ligado {
+  background-color: green;
+  color: white;
+}
+
+.desligado {
+  background-color: red;
+  color: white;
+}
